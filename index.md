@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Plexa
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
+Plexa Home Page - Allowing you to start Plexa on demand.
 
 
